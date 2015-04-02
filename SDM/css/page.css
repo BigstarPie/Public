@@ -1,0 +1,94 @@
+body {
+	/*background-image: url('./images/background/2.jpg');*/
+	background-color: #F2FAF5;
+}
+
+#logo{
+	position: absolute;
+	/*top:95px;*/
+	left:448px;
+	border: 2px solid;
+}
+
+#function{
+	background-color: #C6CCC7;
+	width: 1010px;
+	height: 37px;
+	border-radius: 5px;
+	padding-left: 8px;
+	padding-top: 7px;
+	
+	position: absolute;
+	left: 50%;
+	margin-left: -505px;
+	margin-top: -40px;
+	border: 0px solid;
+}
+
+#main{
+	background-color:#FFFFFF;
+	width: 1010px;
+	min-height: 700px;
+	border-radius: 5px;
+	
+	padding-left: 8px;
+    padding-top: 7px;
+	
+	position: absolute;
+	left: 50%;
+	margin-left: -505px;
+	margin-top: 18px;
+	border: 0px solid;
+}
+
+#comment_area{
+    width: 320px;
+    background-color:#FFFFFF;
+    border-radius: 5px;
+    
+    position: absolute;
+    left: 90%;
+    margin-left: 122px;
+    margin-top: 150px;
+    border: 0px solid;
+    
+    display: none;
+}
+
+#login{
+	width: 300px;
+	height: 210px;
+	
+	position: absolute;
+	left: 50%;
+	top: 30%;
+	
+	margin-left: -150px;
+	margin-top: -105px;
+	
+	padding-left: 22px;
+	
+	font-family:"Trebuchet MS";
+	border: 2px solid;
+	border-radius: 14px;
+}
+
+#alertdiv{
+	width: 310px;
+	height: 30px;
+	position: absolute;
+	left: 50%;
+	visibility: collapse;
+	margin-left: -163px;
+	margin-top: 50px;
+	border: 2px #D9534F solid;
+	border-radius: 10px;
+	padding-top: 7px;
+	padding-left: 10px;
+}
+
+.logoutArea{
+    position: absolute;
+    left: 957px;
+    margin-top: -29px;
+}

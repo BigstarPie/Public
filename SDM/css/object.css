@@ -1,0 +1,58 @@
+#loginbutton{
+   	font-size:12px;
+   	font-family:Trebuchet MS,sans-serif;
+   	font-weight:bold;
+   	width:62px;
+   	background-color:#E0FFF4;
+}
+
+#alumnilogo{
+  margin-left: -200px;
+}
+
+#loginbutton:active{
+	border-style:inset;
+	border-width:3px;
+}
+
+
+.f_box{
+	margin-top: 80px;
+}
+
+.subClassBox{
+    float: left;
+    width: 340px;
+}
+
+#forumArticle{
+    float:left;
+    margin-left: 170px;
+    display: none;
+}
+
+#writepad{
+    float:left;
+    margin-left: 170px;
+    display: none;
+}
+
+.forumArticleList{
+    width: 480px;
+}
+
+#forumArticleContent{
+    min-height: 200px;
+    width: 448px;
+}
+
+table .active{
+    background-color: #F5F5F5;
+}
+
+.leave_message_box{
+    width:283px;
+    height:210px;
+    resize: none;
+}
+
